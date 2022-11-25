@@ -17,7 +17,7 @@ Prepared folders:
 + __output__ : directory for training logs and outputs 
 
 The datasets and the teachers we use in our paper are available here: 
-https://drive.google.com/drive/folders/1RemBYL_0Xj0PNwRemnbzE7jLrN9477tw?usp=sharing
+https://drive.google.com/drive/folders/1QlFDmR4D5fA6MQMnkqy1-fG-6leQI-Od?usp=sharing
 
 
 Run script as:
