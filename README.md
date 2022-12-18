@@ -1,5 +1,5 @@
 # Knowledge Amalgamation for Multi-Label Classification (KA-MLC)
-This is the implementation repository of <i>Adaptive kNowledge Transfer (ANT)</i>, the solution for KA-MLC.
+This is the implementation repository of <i>Adaptive kNowledge Transfer (ANT)</i>, the solution for KA-MLC, AAAI 2023.
 
 ## File listing
 
